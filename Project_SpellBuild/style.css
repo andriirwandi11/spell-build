@@ -1,0 +1,432 @@
+/* General CSS */
+*{
+    margin:0;
+	padding:0;
+	scroll-behavior: smooth;
+}
+
+header{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.8)), url(Assets/headerBackground.jpg);
+	height: 80vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.head_nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	color:  black;
+	font-family: fantasy;
+	font-size: 32px;
+	width: 100%;
+	padding: 0px 30px;
+	background:  linear-gradient(rgba(255, 255, 255, 0.1),rgba(255,255,255,1));
+}
+
+.main_nav{
+	display: flex;
+	list-style: none;
+    padding: 0px 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.main_nav li{
+	padding: 25px 10px;
+}
+
+.main_nav a{
+	text-decoration: none;
+	color: black;
+	padding: 5px 20px;
+}
+
+.main_nav li.is_active a{
+	border: 3px solid black;
+}
+
+.main_nav li a:hover{
+	color:rgb(77, 121, 255);
+}
+
+.title{
+	display: grid;
+	align-items: center;
+}
+
+.title h1{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	color: rgb(77, 121, 255);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding-top: 8%;
+}
+
+.title ul li{
+	list-style: none;
+	text-align: center;
+	font-size: 40px;
+	align-items: center;
+}
+
+footer{
+	background: linear-gradient(to bottom, #003399 0%, #3399ff 100%);
+	text-align: center;
+	color: rgba(255, 255, 255, 0.698);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 18px;
+	padding: 50px;
+}
+
+footer span{
+	font-family: fantasy;
+	font-size: 36px;
+	color: black;
+}
+
+/* HomePage CSS */
+.btnJoin{
+	font-size: 30px;
+	border: 10px double white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	border-radius: 25px;
+	
+}
+.btnJoin a{
+	text-decoration: none;
+	color: white;
+	padding: 5px 40px;
+}
+
+.btnJoin a:hover {
+	color: red;
+}
+
+.contentHome{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.8)), url(Assets/homeBackground.jpg);
+	background-size: cover;
+	background-position: center;
+	color: rgb(77, 121, 255);
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 7% 20%;
+	font-size: 40px;
+	border: 10px solid goldenrod;
+}
+
+.contentHome p{
+	text-align: justify;
+	font-size: 25px;
+	color: white;
+}
+
+/* MediaPage CSS */
+
+.backgroundMedia{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.8)), url(Assets/backgroundAbout.jpg);
+	background-size: cover;
+	background-position: center;
+	border: 10px solid goldenrod;
+	color: rgb(77, 121, 255);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	padding: 15px;
+}
+
+.container{
+	width: 1280px;
+	min-height: 50px;
+	background: white;
+	margin: 15px; 
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	
+}
+
+.container .box{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	background: #ff0;
+	margin: 10px;
+	box-sizing: border-box;
+	display: inline-block;
+}
+
+.container .box .imgBox{
+	position: relative;
+}
+
+img{
+	object-fit: cover;
+	width: 300px;
+	height: 300px;
+}
+
+.container .box .imgBox img{
+	max-width: 100%;
+	transition: transform 2s;
+}
+
+.container .box:hover .imgBox img{
+	transform: scale(1.2);
+}
+
+.container .box .detail{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	bottom: 10px;
+	right: 10px;
+	background: rgba(0,0,0,.8);
+	transform: scaleY(0);
+	transition: transform .5s;
+}
+
+.container .box:hover .detail{
+	transform: scaleY(1);
+}
+
+.container .box .detail .content{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	padding: 15px;
+	color: #fff;
+}
+
+.container .box .detail .content h2{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	color: #ff0;
+}
+
+.container .box .detail .content p{
+	margin: 10px 0 0;
+	padding: 0;
+	font-size: 15px;
+}
+
+/* CommunityPage CSS */
+
+.backgroundCommunity{
+	background-image: linear-gradient(rgba( 0, 0, 0, 0.3),rgba( 0, 0, 0,0.8)), url(Assets/backgroundCommunity.jpg);
+	background-size: cover;
+	background-position: center;
+	color: rgb(77, 121, 255);
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow','Arial', sans-serif;
+	font-size: 40px;
+	border: 10px solid goldenrod;
+	padding: 10px;
+	padding-bottom: 50px;
+}
+
+h1{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow','Arial', sans-serif;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 50px;
+	color: red;
+}
+
+.containerCommunity{
+	background-image: url(Assets/homeBackground.jpg);
+	max-width: 1200px;
+	margin: auto;
+	background: #f2f2f2;
+	overflow: auto;
+	opacity: 0.85;
+}
+
+.logo{
+	margin: 5px;
+	border: 5px solid grey;
+	float: left;
+	width: 380px;
+}
+
+.logo img{
+	width: 100%;
+	height: 300px;
+	opacity: 1;
+}
+
+
+
+
+/* AboutUsPage CSS */
+
+.backgroundAbout{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.8)), url(Assets/backgroundmedia.png);
+	background-size: cover;
+	background-position: center;
+	color: rgb(77, 121, 255);
+	text-align: center;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 40px;
+	border: 10px solid goldenrod;
+	padding: 10px;
+	padding-bottom: 50px;
+}
+
+
+.containerAbout{
+	background-image: url(Assets/homeBackground.jpg);
+	max-width: 1210px;
+	margin: auto;
+	background: #f2f2f2;
+	overflow: auto;
+}
+
+.gallery{
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 390px;
+}
+
+.gallery img{
+	width: 100%;
+	height: 300px;
+}
+
+.desc{
+	padding: 25px;
+	text-align: center;
+}
+
+.desc p{
+	font-size: 18px;
+	font-family: 'Franklin Gothic Medium';
+	color: black;
+}
+
+
+
+/* BuyPage CSS */
+.fieldErr{
+	color:red;
+	text-align: center;
+}
+.contentBuy{
+	padding: 7% 20%;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background:  linear-gradient(to bottom, #ffffff 0%, #003399 100%);
+	color: black;
+	text-align: center;
+	line-height: 40px;
+	font-size: 30px;
+}
+
+.buyBackground{
+	background: white;
+	padding: 5% 5%;
+	border-radius: 30px;
+	align-content: center;
+	text-align: left;
+	font-size: 14px;
+}
+
+.buyBackground span{
+	text-align: center;
+	font-size: 16px;
+	color: rgb(77, 121, 255);
+}
+
+input[type=text]{
+    width: 100%;
+    border: 2px solid #aaaaaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    outline: none;
+    box-sizing: border-box;
+    transition: .3s;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 14px;
+}
+
+input[type=text]:focus{
+    border-color:  #3366ff;
+    box-shadow: 0 0 8px 0  #3366ff;
+}
+
+input[type=password]{
+    width: 100%;
+    border: 2px solid #aaaaaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    outline: none;
+    box-sizing: border-box;
+    transition: .3s;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 14px;
+}
+
+input[type=password]:focus{
+    border-color:  #3366ff;
+    box-shadow: 0 0 8px 0  #3366ff;
+}
+
+textarea{
+    width: 100%;
+    border: 2px solid #aaaaaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    outline: none;
+    box-sizing: border-box;
+    transition: .3s;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	resize: vertical;
+	font-size: 14px;
+}
+
+textarea:focus{
+    border-color:  #3366ff;
+    box-shadow: 0 0 8px 0  #3366ff;
+}
+
+input[type=number]{
+    width: 10%;
+    border: 2px solid #aaaaaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 8px;
+    outline: none;
+    box-sizing: border-box;
+    transition: .3s;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 14px;
+}
+
+input[type=number]:focus{
+    border-color:  #3366ff;
+    box-shadow: 0 0 8px 0  #3366ff;
+}
+
+input[type=button]{
+    width: 30%;
+    border-radius: 4px;
+    margin: 8px 0;
+    padding: 15px;
+    transition: .3s;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 14px;
+	background-color: rgb(77, 121, 255);
+}
+
+.posButton{
+	text-align: center;
+}
+
+

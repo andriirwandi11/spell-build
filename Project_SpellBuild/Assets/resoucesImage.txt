@@ -1,0 +1,49 @@
+headerBackground
+https://www.gamespot.com/articles/spellbreak-an-rpg-like-battle-royale-is-no-fortnit/1100-6476384/
+homeBackground
+https://playspellbreak.com/
+mediaGameplayImage 1
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.usgamer.net%2Farticles%2Fspellbreak-makes-battle-royale-anime-as-hell&psig=AOvVaw0-RTPMp_vljr1luCRqAGlN&ust=1591116442803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCX7euI4ekCFQAAAAAdAAAAABAD
+mediaGameplayImage 2
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.gamespace.com%2Fall-articles%2Fnews%2Fspellbreak-community-highlights-rflegendary%2F&psig=AOvVaw0-RTPMp_vljr1luCRqAGlN&ust=1591116442803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCX7euI4ekCFQAAAAAdAAAAABAI
+mediaGameplayImage 3
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.thegamer.com%2Fspellbreak-closed-beta-preview%2F&psig=AOvVaw0-RTPMp_vljr1luCRqAGlN&ust=1591116442803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIifyZWK4ekCFQAAAAAdAAAAABAL
+mediaGameplayImage 4
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.bestgamingsettings.com%2Fbeginners-guide-to-spellbreak%2F&psig=AOvVaw0-RTPMp_vljr1luCRqAGlN&ust=1591116442803000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIifyZWK4ekCFQAAAAAdAAAAABAE
+fanArt1
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FSpellbreak%2Fcomments%2Fay1wxu%2Ffanart%2F&psig=AOvVaw1K0RaHA5RxrYkRxFd9f6Yj&ust=1591116719937000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjVmu6J4ekCFQAAAAAdAAAAABAK
+fanArt2
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fichigimy%2Fstatus%2F1048253668619952133&psig=AOvVaw2Xj13yUBTum3yylExpjzat&ust=1591116885508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDd5LqK4ekCFQAAAAAdAAAAABAD
+fanArt3
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F829788300075010095%2F&psig=AOvVaw2Xj13yUBTum3yylExpjzat&ust=1591116885508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDd5LqK4ekCFQAAAAAdAAAAABAJ
+fanArt4
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMorganaMains%2Fcomments%2Ffw009m%2Fcoven_morgana_fan_art_3%2F&psig=AOvVaw2Xj13yUBTum3yylExpjzat&ust=1591116885508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDd5LqK4ekCFQAAAAAdAAAAABAV
+mechanic1
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiV2z3rlxAKQ&psig=AOvVaw06TFPHUlO7t-4-yZKrF1lk&ust=1591205422531000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDc7qXU4-kCFQAAAAAdAAAAABAD
+mechanic2
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5yzH5bUIRr8&psig=AOvVaw06TFPHUlO7t-4-yZKrF1lk&ust=1591205422531000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDc7qXU4-kCFQAAAAAdAAAAABAI
+mechanic5
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.usgamer.net%2Farticles%2Fspellbreak-makes-battle-royale-anime-as-hell&psig=AOvVaw06TFPHUlO7t-4-yZKrF1lk&ust=1591205422531000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDc7qXU4-kCFQAAAAAdAAAAABA9
+feature1
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fjalantikus.com%2Ftips%2Fmode-permainan-mobile-legends%2F&psig=AOvVaw36NUsEVMXOyXpoqKcOLs0w&ust=1591205894338000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJij_YLW4-kCFQAAAAAdAAAAABAD
+feature2
+https://www.google.co.id/url?sa=i&url=http%3A%2F%2Fmyanmarmobilelegends.blogspot.com%2F2017%2F08%2Fabout-ranked-game.html&psig=AOvVaw37xAmTPr07SCImicZTOAQg&ust=1591206030602000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjx98bW4-kCFQAAAAAdAAAAABAD
+feature3
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fgames.grid.id%2Fread%2F151750469%2Fperubahan-terbaru-pada-mode-survival-dan-brawl-di-mobile-legends%3Fpage%3Dall&psig=AOvVaw37xAmTPr07SCImicZTOAQg&ust=1591206030602000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjx98bW4-kCFQAAAAAdAAAAABAQ
+facebook
+https://play.google.com/store/apps/details?id=com.facebook.katana&hl=in
+twitter
+https://play.google.com/store/apps/details?id=com.twitter.android&hl=en
+backgroundCommunity
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.thesixthaxis.com%2F2020%2F03%2F19%2Fspellbreak-ps4-gameplay-preview-battle-royale%2F&psig=AOvVaw0anZEDPepI_ZSEwIt3E2-3&ust=1592060111542000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjRqqnE_OkCFQAAAAAdAAAAABAD
+yutub
+https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.kompasiana.com%2Fpardosi%2F5d4f10c50d823055e56b1c52%2Fhi-guys-youtube-biang-kerok-rontoknya-industri-televisi&psig=AOvVaw1QJFmW9FVlgsNsqW3nbtb_&ust=1592064538000000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCl6tzU_OkCFQAAAAAdAAAAABAD
+
+
+
+
+
+=====Color
+blue
+rgb(77, 121, 255)
+white
